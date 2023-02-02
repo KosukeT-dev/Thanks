@@ -1,0 +1,24 @@
+header {
+  font-size: 200%;
+  color: #1DA1F2;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+main {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+h1 {
+  background: linear-gradient(to right,#e60000,#f39800,#fff100,#009944,#0068b7,#1d2088,#920783);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.line-break {
+  padding-bottom: 50px;
+}
+
